@@ -1,0 +1,12 @@
+git clean - usuwanie niesledzonych plikow i katalogow
+git clean -n tryb testowy
+git clean -nd tryb testowy z katalogami
+git clean -idf - usuwanie plikow z wyborem ktore wywalic
+git reset - odwrotnosc git add
+gir checkout -- nazwa.pliku - usuwanie zmian w tym pliku
+git rm nazwa.pliku - usuwanie sledzonych plikow i katalogow
+git log --oneline - podejrzenie zmian
+git revert - odwrocenie zmian w commicie
++ 4# przywracanie zmian
+git stash - odlozenie zmian na bok
+git stash pop - dogranie tych zmian 
